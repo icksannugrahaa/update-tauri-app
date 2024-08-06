@@ -4,11 +4,11 @@
   "pub_date": "2023-08-05T14:35:29Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDgxQzhDNkZGMUYyRjhBRUQKUldUdGlpOGYvOGJJZ1h6eW8rR21MQzg4eFdmRG9GM2FGY2hldXVaTVcycDdwaUlGcm01VWMwN2IK%",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5MDd0THcwa1VDK2ErSG9BbGRldnJHNnFCeUdrbExReHRlV0NBZVpIS1J2c0FBQkFBQUFBQUFBQUFBQUlBQUFBQUYyd01MR1RCbEh6eGJNQ0dzNlJBVE53VnNVOTRZQlVuSzB4dHByNjBIaW1oUTI5QWthWTBieVNOd0ZldGpXSktJRlRZdGQ1RTFTaU9jTE55TUliRXlSYm1JeGdrQXBFajM5OHM1RWZIa05Hb0tyandRN3V0blVVc3p5SG5jZitpK0F0cjVyYzRUVDQ9Cg==",
       "url": "https://github.com/icksannugrahaa/update-tauri-app/releases/download/v1.0.0/pos-tauri.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDgxQzhDNkZGMUYyRjhBRUQKUldUdGlpOGYvOGJJZ1h6eW8rR21MQzg4eFdmRG9GM2FGY2hldXVaTVcycDdwaUlGcm01VWMwN2IK%",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5MDd0THcwa1VDK2ErSG9BbGRldnJHNnFCeUdrbExReHRlV0NBZVpIS1J2c0FBQkFBQUFBQUFBQUFBQUlBQUFBQUYyd01MR1RCbEh6eGJNQ0dzNlJBVE53VnNVOTRZQlVuSzB4dHByNjBIaW1oUTI5QWthWTBieVNOd0ZldGpXSktJRlRZdGQ1RTFTaU9jTE55TUliRXlSYm1JeGdrQXBFajM5OHM1RWZIa05Hb0tyandRN3V0blVVc3p5SG5jZitpK0F0cjVyYzRUVDQ9Cg==",
       "url": "https://github.com/icksannugrahaa/update-tauri-app/releases/download/v1.0.0/pos-tauri.app.tar.gz"
     }
   }
