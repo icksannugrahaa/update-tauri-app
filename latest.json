@@ -1,0 +1,15 @@
+{
+  "version": "v1.0.1",
+  "notes": "Test version",
+  "pub_date": "2023-08-05T14:35:29Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "BASE64_SIGNATURE",
+      "url": "https://github.com/icksannugrahaa/update-tauri-app/pos-tauri.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "BASE64_SIGNATURE",
+      "url": "https://github.com/icksannugrahaa/update-tauri-app/pos-tauri.app.tar.gz"
+    }
+  }
+}
