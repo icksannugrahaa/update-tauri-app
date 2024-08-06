@@ -4,13 +4,11 @@
   "pub_date": "2023-08-05T14:35:29Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKIKJsQb12m18EXZGvXDFmnXKYjXU8aZSf14FHuQyiVjyc2nBA4Etzc1priJCaOll1lJjjh66PCrOscpbqStAqVpHkBct16mO2lBpHgymynhSzZ6w4VS93O9K4u6h/64uekYtLeWCFP0TjgZOS+S/Bqrosd2e6Xn757cOrMG5NJqQbrcfYmdGMJWPCBbL+efPg1EYxLp0pS/z+XDZcILSu9yOptJ+FpWD7TgZoUY1Ilq439uJdFE3n8IAjiESzM4/t1vizGVCn84euj5TeT2p06qzMHE8pYPsHxy1CKxUqMnvHwMCV/V+4TL3HJnG/oYS7k8QvKdDCLh+3oDIdYDUBrw==
-      CnRydXN0ZWQgY29tbWVudDogdGltZXN0YW1wOjE2OTMwNjIzNTkJZmlsZTpwb3MtdGF1cmkuYXBwLnRhci5nego=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKIKJsQb12m18EXZGvXDFmnXKYjXU8aZSf14FHuQyiVjyc2nBA4Etzc1priJCaOll1lJjjh66PCrOscpbqStAqVpHkBct16mO2lBpHgymynhSzZ6w4VS93O9K4u6h/64uekYtLeWCFP0TjgZOS+S/Bqrosd2e6Xn757cOrMG5NJqQbrcfYmdGMJWPCBbL+efPg1EYxLp0pS/z+XDZcILSu9yOptJ+FpWD7TgZoUY1Ilq439uJdFE3n8IAjiESzM4/t1vizGVCn84euj5TeT2p06qzMHE8pYPsHxy1CKxUqMnvHwMCV/V+4TL3HJnG/oYS7k8QvKdDCLh+3oDIdYDUBrw==CnRydXN0ZWQgY29tbWVudDogdGltZXN0YW1wOjE2OTMwNjIzNTkJZmlsZTpwb3MtdGF1cmkuYXBwLnRhci5nego=",
       "url": "https://github.com/icksannugrahaa/update-tauri-app/releases/download/v1.0.0/pos-tauri.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKIKJsQb12m18EXZGvXDFmnXKYjXU8aZSf14FHuQyiVjyc2nBA4Etzc1priJCaOll1lJjjh66PCrOscpbqStAqVpHkBct16mO2lBpHgymynhSzZ6w4VS93O9K4u6h/64uekYtLeWCFP0TjgZOS+S/Bqrosd2e6Xn757cOrMG5NJqQbrcfYmdGMJWPCBbL+efPg1EYxLp0pS/z+XDZcILSu9yOptJ+FpWD7TgZoUY1Ilq439uJdFE3n8IAjiESzM4/t1vizGVCn84euj5TeT2p06qzMHE8pYPsHxy1CKxUqMnvHwMCV/V+4TL3HJnG/oYS7k8QvKdDCLh+3oDIdYDUBrw==
-      CnRydXN0ZWQgY29tbWVudDogdGltZXN0YW1wOjE2OTMwNjIzNTkJZmlsZTpwb3MtdGF1cmkuYXBwLnRhci5nego=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKIKJsQb12m18EXZGvXDFmnXKYjXU8aZSf14FHuQyiVjyc2nBA4Etzc1priJCaOll1lJjjh66PCrOscpbqStAqVpHkBct16mO2lBpHgymynhSzZ6w4VS93O9K4u6h/64uekYtLeWCFP0TjgZOS+S/Bqrosd2e6Xn757cOrMG5NJqQbrcfYmdGMJWPCBbL+efPg1EYxLp0pS/z+XDZcILSu9yOptJ+FpWD7TgZoUY1Ilq439uJdFE3n8IAjiESzM4/t1vizGVCn84euj5TeT2p06qzMHE8pYPsHxy1CKxUqMnvHwMCV/V+4TL3HJnG/oYS7k8QvKdDCLh+3oDIdYDUBrw==CnRydXN0ZWQgY29tbWVudDogdGltZXN0YW1wOjE2OTMwNjIzNTkJZmlsZTpwb3MtdGF1cmkuYXBwLnRhci5nego=",
       "url": "https://github.com/icksannugrahaa/update-tauri-app/releases/download/v1.0.0/pos-tauri.app.tar.gz"
     }
   }
