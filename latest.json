@@ -5,11 +5,11 @@
   "platforms": {
     "darwin-x86_64": {
       "signature": "BASE64_SIGNATURE",
-      "url": "https://github.com/icksannugrahaa/update-tauri-app/pos-tauri.app.tar.gz"
+      "url": "https://github.com/icksannugrahaa/update-tauri-app/blob/main/pos-tauri.app.tar.gz"
     },
     "darwin-aarch64": {
       "signature": "BASE64_SIGNATURE",
-      "url": "https://github.com/icksannugrahaa/update-tauri-app/pos-tauri.app.tar.gz"
+      "url": "https://github.com/icksannugrahaa/update-tauri-app/blob/main/pos-tauri.app.tar.gz"
     }
   }
 }
