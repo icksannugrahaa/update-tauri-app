@@ -1,6 +1,6 @@
 {
 	"name": "pos-tauri",
-	"version": "0.0.1",
+	"version": "0.0.9",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
@@ -37,6 +37,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@tauri-apps/api": "^1.6.0",
 		"postcss-cli": "^11.0.0"
 	}
 }
